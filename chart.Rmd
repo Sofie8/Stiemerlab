@@ -1,3 +1,10 @@
+---
+title: "Exploring one Variable"
+author: "Shankar"
+date: "October 25, 2020"
+output: rmarkdown::github_document
+---
+
 ## Example of displaying htmlwidgets on a Github pages site
 
 ```{r}
