@@ -3,7 +3,7 @@ Bekijk [hier]() de resultaten van de biologische waterkwaliteit van de Stiemerbe
 Start datum waterstaalnames: 27/09/2020; einde (voorzien): 26/09/2021.
 
 # Hoe is het gesteld met de waterkwaliteit van de Stiemerbeek?  
-- De laatste monstername en telling van macroinvertertebraten ter hoogte van de Heppenzeelstraat, dateert van 1997! Toen was de Belgische biotische index (BBI) slechts 5, matige waterkwaliteit.  
+- De laatste monstername en telling van de waterdiertjes of macroinvertertebraten, ter hoogte van de Heppenzeelstraat, dateert van 1997! Toen was de Belgische biotische index (BBI) slechts 5, matige waterkwaliteit.  
 - De Stiemerbeek ter hoogte van de Plattewijerstraat was voor het laatst bemonsterd in 2017, en kreeg toen een Belgische biotische index (BBI) score van 6, matige waterkwaliteit.
 - De nog enige actueel bemonsterde locatie van de Stiemerbeek in Genk is deze aan het Diepenbekerbos, afw. RWZI, opwaarts v/d brug. De resultaten op de website tonen een BBI index van 6, in 2017, matige waterkwaliteit.
 
