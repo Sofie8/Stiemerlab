@@ -19,4 +19,4 @@ Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde
 
 *Foto van PACBIO, applicatie voor het gesponsorde 2020 sequencing programma.* 
 
-[test](http://htmlpreview.github.com/?https://github.com/Sofie8/Stiemerlab/blob/main/Chartsmap_2020-10-15.html)
+[test](https://rawgit.com/?https://github.com/Sofie8/Stiemerlab/blob/main/Chartsmap_2020-10-15.html)
