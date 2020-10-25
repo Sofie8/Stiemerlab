@@ -18,3 +18,5 @@ Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde
 <img src="https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg" width="350px">
 
 *Foto van PACBIO, applicatie voor het gesponsorde 2020 sequencing programma.* 
+
+http://htmlpreview.github.com/?
