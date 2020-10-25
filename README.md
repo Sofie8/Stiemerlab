@@ -15,4 +15,4 @@ Start datum waterstaalnames: 27/09/2020; einde (voorzien): 26/09/2021.
 
 Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde leefomgeving! 
 
-https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg
+<img src="https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg" width="350px">
