@@ -1,5 +1,5 @@
 # Stiemerlab
-Bekijk [hier](https://sofie8.github.io/Stiemerlab/Chartsmap_2020-10-15.html) de resultaten van de biologische waterkwaliteit van de Stiemerbeek in Genk, gemeten voor en door burgers van Genk.  
+Bekijk [hier](https://sofie8.github.io/Stiemerlab/Chartsmap_2020-10-15.html) en [hier](http://127.0.0.1:6937/) de resultaten van de biologische waterkwaliteit van de Stiemerbeek in Genk, gemeten voor en door burgers van Genk.  
 Start datum waterstaalnames: 27/09/2020; einde (voorzien): 26/09/2021.
 
 # Hoe is het gesteld met de waterkwaliteit van de Stiemerbeek?  
