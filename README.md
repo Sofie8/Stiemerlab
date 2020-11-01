@@ -16,8 +16,8 @@ Doel van het Stiemerlab project:
 
 <p align="mid">
 <img src="https://pa1.narvii.com/6112/577c0d73d2c85a41039cebfbae3bedb1701cb3f7_hq.gif" width="350px">
-<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/eDNA.jpg" width="200px">
-<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/flowcam.jpg" width="140px">  
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/eDNA.JPG" width="200px">
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/flowcam.JPG" width="140px">  
 </p>
 
 - Ten tweede willen we het meetnet gevoelig uitbreiden, door niet op 1, maar op 10 locaties te meten. Daarnaast willen we ook de frequentie opvoeren (niet 1 keer per jaar, maar maandelijks). Op die manier krijgen we voor het eerst inzichten in de ruimtelijke en seizoenale dynamiek van de waterloop. De data die zal gegenereerd worden in dit project is uniek. Vooral de combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.    
