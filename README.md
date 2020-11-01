@@ -14,20 +14,20 @@ Doel van het Stiemerlab project:
 - Dit project heeft enerzijds tot doel om te evalueren welke technieken en methodes geschikt zijn om voor, door en met burgers te doen, om de biologische waterkwaliteit van de Stiemerbeek in kaart te brengen.  
 - De technieken gebruikt in dit project zijn o.a. het nemen van water schepstalen voor eDNA-analyse met next-generation sequencing, en werpnet stalen voor FLOWCAM-analyse.
 
-<p align="mid">
+<p align="center">
 <img src="https://pa1.narvii.com/6112/577c0d73d2c85a41039cebfbae3bedb1701cb3f7_hq.gif" width="350px">
 </p>
 
-- Ten tweede willen we het meetnet uitbreiden (dichter netwerk), door niet op 1, maar op 10 locaties te meten. Daarnaast willen we ook de frequentie opvoeren (niet 1 keer per jaar, maar maandelijks). Op die manier krijgen we voor het eerst inzichten in de ruimtelijke en seizoenale dynamiek van de waterloop. De data die zal gegenereerd worden in dit project is daarom uniek. Vooral de combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.    
+- Ten tweede willen we het meetnet gevoelig uitbreiden, door niet op 1, maar op 10 locaties te meten. Daarnaast willen we ook de frequentie opvoeren (niet 1 keer per jaar, maar maandelijks). Op die manier krijgen we voor het eerst inzichten in de ruimtelijke en seizoenale dynamiek van de waterloop. De data die zal gegenereerd worden in dit project is uniek. Vooral de combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.    
 - Deze resultaten zullen ook helpen om beter geïnformeerde, en snellere maatregelen te nemen om de waterkwaliteit te verbeteren.    
-- Tot slot, wat we zelf meten, daar zijn we ook nauwer bij betrokken, dat is sensibilisatie! Als we 1 waterdiertje kunnen redden door thuis meer water op te vangen, lees [“Elke vierkante meter steen die wordt vervangen door groen helpt.”]() en op die manier de overstort collectoren te ontlasten, lees [frequentie overstorten verminderen](), is dit een grote stap vooruit!  
+- Tot slot, wat we zelf meten, daar zijn we ook nauwer bij betrokken, sensibilisatie! Als we 1 waterdiertje kunnen redden door [thuis meer water op te vangen](https://www.nieuwsblad.be/cnt/dmf20201023_97152615), en op die manier de [overstort collectoren]() te ontlasten, is dit een grote stap vooruit!  
 
 Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde leefomgeving!
 
 <p align="mid">
-<img src="https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg" width="350px"> 
-<img src="https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg" width="350px"> 
-<img src="https://www.pacb.com/wp-content/uploads/2020-Microbial-Genomics-SMRT-Grant-Featured-Image-768x512.jpg" width="350px"> 
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test2_BoumedieneBelbachir002.JPG" width="350px"> 
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test2_BoumedieneBelbachir0023.JPG" width="350px"> 
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test2_BoumedieneBelbachir002.JPG" width="350px"> 
 </p>
 
 *Wil je graag meedoen met waterschepstalen te nemen, schrijf je in:  en kom hier je resultaten te weten.*
