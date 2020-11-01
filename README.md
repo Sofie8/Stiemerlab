@@ -1,6 +1,6 @@
 # Stiemerlab
 Bekijk [hier](https://sofie8.github.io/Stiemerlab/Chartsmap_2020-10-15.html) de resultaten van de biologische waterkwaliteit van de Stiemerbeek, gemeten voor, en door burgers van Genk.  
-Start waterstaalnames: 27 september 2020, en einde 26 september 2021.
+Start project: 27 september 2020, (voorlopig) einde 26 september 2021.
 
 # Hoe is het gesteld met de waterkwaliteit van de Stiemerbeek?  
 - De laatste monstername en telling van de waterdiertjes of macroinvertertebraten ter hoogte van de Heppenzeelstraat, dateert van 1997 (23 jaar geleden!). Toen was de Belgische biotische index (BBI) slechts 5, matige waterkwaliteit.  
