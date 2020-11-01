@@ -14,10 +14,10 @@ Doel van het Stiemerlab project:
 - Dit project heeft enerzijds tot doel om te evalueren welke technieken en methodes geschikt zijn om voor, door en met burgers te doen, om de biologische waterkwaliteit van de Stiemerbeek in kaart te brengen.  
 - De technieken gebruikt in dit project zijn o.a. het nemen van water schepstalen voor eDNA-analyse met next-generation sequencing, en werpnet stalen voor FLOWCAM-analyse.
 
-<p align="center">
+<p align="mid">
 <img src="https://pa1.narvii.com/6112/577c0d73d2c85a41039cebfbae3bedb1701cb3f7_hq.gif" width="350px">
-<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/eDNA-foto.png" width="350px">
-<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/flowcam-foto.png" width="350px">  
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/eDNA-foto.png" width="150px">
+<img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/flowcam-foto.png" width="150px">  
 </p>
 
 - Ten tweede willen we het meetnet gevoelig uitbreiden, door niet op 1, maar op 10 locaties te meten. Daarnaast willen we ook de frequentie opvoeren (niet 1 keer per jaar, maar maandelijks). Op die manier krijgen we voor het eerst inzichten in de ruimtelijke en seizoenale dynamiek van de waterloop. De data die zal gegenereerd worden in dit project is uniek. Vooral de combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.    
