@@ -35,5 +35,5 @@ Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde
 <img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test1_BoumedieneBelbachir007.JPG" width="350px"> 
 </p>
 
-*Wil je graag meedoen en ook waterschepstalen nemen, schrijf je in op [Stiemerlab](https://stiemerlab.be/over-stiemerlab/), en ontvang je gratis kit.  
+*Wil je graag mee doen en ook waterschepstalen nemen, schrijf je in op [Stiemerlab](https://stiemerlab.be/over-stiemerlab/), en ontvang je gratis staalname tas!  
 Kom hier je resultaten te weten.*
