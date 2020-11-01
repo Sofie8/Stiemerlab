@@ -22,7 +22,7 @@ Doel van het Stiemerlab project:
 
 - Ten tweede willen we het meetnet gevoelig uitbreiden, door niet op 1, maar op 10 locaties te meten. Daarnaast willen we ook de frequentie opvoeren (niet 1 keer per jaar, maar maandelijks). Op die manier krijgen we voor het eerst inzichten in de ruimtelijke en seizoenale dynamiek van de waterloop. De data die zal gegenereerd worden in dit project is uniek. Vooral de combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.    
 - Deze resultaten zullen ook helpen om beter geïnformeerde, en snellere maatregelen te nemen om de waterkwaliteit te verbeteren.    
-- Tot slot, wat we zelf meten, daar zijn we ook nauwer bij betrokken, sensibilisatie! Als we 1 waterdiertje kunnen redden door [thuis meer water op te vangen](https://www.nieuwsblad.be/cnt/dmf20201023_97152615), en op die manier de te ontlasten, is dit een grote stap vooruit!  
+- Tot slot, wat we zelf meten, daar zijn we ook nauwer bij betrokken! Als we 1 waterdiertje kunnen redden door [thuis meer water op te vangen](https://www.nieuwsblad.be/cnt/dmf20201023_97152615), en op die manier de overstort collectoren te ontlasten, is dit een grote stap vooruit!  
 
 Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde leefomgeving!
 
@@ -33,5 +33,5 @@ Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde
 <img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test2_BoumedieneBelbachir035.JPG" width="350px">
 </p>
 
-*Wil je graag meedoen en ook waterschepstalen nemen, schrijf je in [Stiemerlab](https://stiemerlab.be/over-stiemerlab/), en ontvang je gratis kit.  
+*Wil je graag meedoen en ook waterschepstalen nemen, schrijf je in op [Stiemerlab](https://stiemerlab.be/over-stiemerlab/), en ontvang je gratis kit.  
 Kom hier je resultaten te weten.*
