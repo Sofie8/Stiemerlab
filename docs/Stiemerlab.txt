@@ -1,0 +1,21 @@
+Date	Time	Weather	Templucht	Tempwater	Nitraat	Nitriet	pH	Alkaliniteit	Hardheid	Ammonium	Chloride	EC	TDS	OpgelosteZuurstofOrig	OpgelosteZuurstof	Locatie	Maand
+27/09/2020	10u	bewolkt	15	12.8	0	0	7	40	60	0	29	510	210	6	6	01.Thor	September
+27/09/2020	13u30	bewolkt	14	13.1	0	0	6	40	120	0	30	613	303	0	4	04.Heppenzeelstraat	September
+27/09/2020	11u29	bewolkt	15	12.5	0	0	6.5	40	60	0	45			4	8	06.Paresbemdstraat/instroom	September
+26/09/2020	11u30	bewolkt	15	12.6	0	0	6.5	40	60	0	30	341	172	7	7	07.Paresbemdstraat/Stiemer	September
+26/09/2020	9u30	bewolkt	12	11	0	0	6.5	40	30	0	30	268	131	4	4	09.Hoefstadstraat	September
+26/09/2020	10u	bewolkt	12.5	13	0	0.5	6.5	40	60	0.25	29	281	140	8	8	10.NieuweKuilenweg	September
+27/09/2020	10u30	bewolkt	13	13.4	0	0	6	40	30	0.25	30	229	111	0	6	12.Slagmolen/Stiemer	September
+27/09/2020	16u	bewolkt	14	13.5	0	0	6.5	40	120	0	29	470	230	7	7	13.Slagmolen/Achterbeek	September
+27/09/2020	11u15	bewolkt	15	14.5	0	0.5	7	40	100	0.25	30	232		4	5	14.Plattewijersstraat	September
+27/09/2020	11u	bewolkt	14	14	0	0	6.5	80	120	0	58	465	220	8	8	16.Diepenbekerbos	September
+25/10/2020	9u45	regen	13	12.2	0	0	7	40	60	0	29	526	234	4	4	01.Thor	Oktober
+23/10/2020	9u30	regen	14	15	0	0	6.5	40	30	0	29	470	235	0	4	04.Heppenzeelstraat	Oktober
+25/10/2020	11u20	regen	13	14	0	0	6.5	40	60	0	46			4	8	06.Paresbemdstraat/instroom	Oktober
+25/10/2020	11u49	regen	15	12.3	0	0.5	6.5	80	60	1	29	342	171	4	4	07.Paresbemdstraat/Stiemer	Oktober
+25/10/2020	11u	regen	13.7	14	0	0	7	40	30	0	30	314	157	3.5	3.5	09.Hoefstadstraat	Oktober
+25/10/2020	11u30	regen	14	13	0	0.5	6.5	40	100	0.5	30	348		6	6	10.NieuweKuilenweg	Oktober
+25/10/2020	10u	regen	12	12.8	0	0	6.5	40	60	0	30	392	195	0	5	12.Slagmolen/Stiemer	Oktober
+25/10/2020	14u	regen	12	12.9	0	0	7	40	120	0	29	477	235	3	3	13.Slagmolen/Achterbeek	Oktober
+25/10/2020	11u	regen	14	13	0	0	7	40	120	0	30			1	4	14.Plattewijersstraat	Oktober
+25/10/2020	10u27	regen	13.6	13.5	10	0	6.5	80	120	0	56	564	280	1	8	16.Diepenbekerbos	Oktober
