@@ -25,8 +25,8 @@ Doel van het [Stiemerlab](https://stiemerlab.be/over-stiemerlab/) project:
 - De data die zal gegenereerd worden in dit project is uniek. De combinatie van eDNA analyse en FLOWCAM is nooit eerder gedaan voor een waterloop in Vlaanderen.     
 - Tot slot, wat we zelf meten daar zijn we ook nauwer bij betrokken! Als we 1 waterdiertje kunnen redden door [lokaal meer regenwater op te vangen](https://www.nieuwsblad.be/cnt/dmf20201023_97152615), is dit een grote stap vooruit!  
 
-Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde leefomgeving!
-Voor meer info, zie de officiële website: [Stiemerlab](https://stiemerlab.be/over-stiemerlab/)
+Stiemerlab staat voor het samen werken aan een betere waterkwaliteit, en gezonde leefomgeving!  
+Voor meer info, zie de officiële website: [Stiemerlab.be](https://stiemerlab.be/over-stiemerlab/)
 
 <p align="mid">
 <img src="https://github.com/Sofie8/Stiemerlab/blob/main/fotos/StiemerLab_Test2_BoumedieneBelbachir002.JPG" width="350px"> 
