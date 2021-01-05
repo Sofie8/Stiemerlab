@@ -1,0 +1,34 @@
+Datum	Tijd	Weer	Temp.Lucht	Temp.Water	Nitraat	Nitriet	pH	Alkaliniteit	Hardheid	Ammonium	Chloride	EC	TDS	OpgelosteZuurstof	Locatie	Maand	Deelnemer
+Referentiewaardes					<10	0	6.5-7.5	40-80	30-120	0	150	258-340		>5-8			
+Overstort uitschieters					10	0.5	<6.5	-	-	4	180	750		3			
+27/09/2020	10u	bewolkt	15	12.8	0	0	7	40	60	0	29	510	210	6	1. Thor	September	Sigmar Fries
+27/09/2020	13u30	bewolkt	14	13.1	0	0	6	40	120	0	30	613	303	4	4. Heppenzeelstraat	September	Monique Meyvis en Bozo Suzy
+27/09/2020	11u29	bewolkt	15	12.5	0	0	6.5	40	60	0	45	NA	NA	8	6. Paresbemdstraat/ zijdelings instroom	September	Debbie Norek
+26/09/2020	11u30	bewolkt	15	12.6	0	0	6.5	40	60	0	30	341	172	7	7. Paresbemdstraat/ Stiemer	September	Paul Schepers
+26/09/2020	9u30	bewolkt	12	11	0	0	6.5	40	30	0	30	268	131	4	9. Hoefstadstraat	September	Hubert Thijs
+26/09/2020	10u	bewolkt	12.5	13	0	0.5	6.5	40	60	0.25	29	281	140	8	10. Nieuwe Kuilenweg	September	Ed Strzebonski
+27/09/2020	10u30	bewolkt	13	13.4	0	0	6	40	30	0.25	30	229	111	6	12. Slagmolen/Stiemer	September	Ingrid Lantmeeters
+27/09/2020	16u	bewolkt	14	13.5	0	0	6.5	40	120	0	29	470	230	7	13. Slagmolen/Schabeek/Achterbeek	September	Ilse Stouten
+27/09/2020	11u15	bewolkt	15	14.5	0	0.5	7	40	100	0.25	30	232	NA	5	14. Plattewijersstraat	September	Nicole Baerts
+27/09/2020	11u	bewolkt	14	14	0	0	6.5	80	120	0	58	465	220	8	16. Diepenbekerbos	September	Johnny Nelissen
+25/10/2020	9u45	regen	13	12.2	0	0	7	40	60	0	29	526	234	4	1. Thor	Oktober	Sigmar Fries
+23/10/2020	9u30	regen	14	15	0	0	6.5	40	30	0	29	470	235	4	4. Heppenzeelstraat	Oktober	Monique Meyvis en Bozo Suzy
+25/10/2020	11u20	regen	13	14	0	0	6.5	40	60	0	46	NA	NA	8	6. Paresbemdstraat/ zijdelings instroom	Oktober	Debbie Norek
+25/10/2020	11u49	regen	15	12.3	0	0.5	6.5	80	60	1	29	342	171	4	7. Paresbemdstraat/ Stiemer	Oktober	Paul Schepers
+25/10/2020	11u	regen	13.7	14	0	0	7	40	30	0	30	314	157	3.5	9. Hoefstadstraat	Oktober	Hubert Thijs
+25/10/2020	11u30	regen	14	13	0	0.5	6.5	40	100	0.5	30	348	NA	6	10. Nieuwe Kuilenweg	Oktober	Ed Strzebonski
+25/10/2020	10u	regen	12	12.8	0	0	6.5	40	60	0	30	392	195	5	12. Slagmolen/Stiemer	Oktober	Ingrid Lantmeeters
+25/10/2020	14u	regen	12	12.9	0	0	7	40	120	0	29	477	235	3	13. Slagmolen/Schabeek/Achterbeek	Oktober	Ilse Stouten
+25/10/2020	11u	regen	14	13	0	0	7	40	120	0	30	NA	NA	4	14. Plattewijersstraat	Oktober	Nicole Baerts
+25/10/2020	10u27	regen	13.6	13.5	10	0	6.5	80	120	0	56	564	280	8	16. Diepenbekerbos	Oktober	Johnny Nelissen
+27/11/2020	16u	bewolkt	9	8	20	0	7	40	60	0	29	648	317	10	01.Thor	November	Sigmar Fries
+29/11/2020	14u	zonnig			0	0	6.5	80	120	0	29			6	01.Thor	November	Niels Caelen
+28/11/2020	9u45	bewolkt	9	9	0	0	6	40	120	0	29			5	04.Heppenzeelstraat	November	Monique Meyvis en Suzy Bozo
+															6. Paresbemdstraat/ zijdelings instroom		Debbie Norek
+29/11/2020	10u20	bewolkt	3	7.5	0	0	6.5	0	60	0	30	334	167	5	07.Paresbemdstraat/Stiemer	November	Paul Schepers
+29/11/2020	14u	zonnig	8	8.7	0	0	6.5	20	60	0	29	310	155	5.5	09.Hoefstadstraat	November	Hubert Thijs
+29/11/2020	10u48	bewolkt	5	10	0	0	6.5	0	30	0.25	29	367	183	6	10.NieuweKuilenweg	November	Ed Strzebonski
+29/11/2020	10u	bewolkt	3	7	0	0	7	40	120	0	29	403	202	4	12.Slagmolen/Stiemer	November	Ingrid Lantmeeters
+29/11/2020	15u30	zonnig	5	5.8	0	0	6.5	40	120	0	29	507	252	6	13.Slagmolen/Achterbeek	November	Ilse Stouten
+29/11/2020	10u	bewolkt	5	6.4	0	0.5	7	40	60	0	29	401	200	8	14.Plattewijersstraat	November	Nicole Baerts
+29/11/2020	15u30	bewolkt	4	7.2	10	0.5	7	40	100	0	29	585	250	7	16.Diepenbekerbos	November	Johnny Nelissen
