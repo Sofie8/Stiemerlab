@@ -1,0 +1,29 @@
+# ID	01.Thor	04.Heppenzeelstraat	06. Paresbemdstraat/ zijdelings instroom	07.Paresbemdstraat/Stiemer	09.Hoefstadstraat	10.NieuweKuilenweg	12.Slagmolen/Stiemer	13.Slagmolen/Achterbeek	14.Plattewijersstraat	16.Diepenbekerbos	Taxonomie
+ID01	0	0	2	1	2	0	5	0	0	0	Chlorophyta; Scenedesmus
+ID02	0	0	0	0	1	0	0	0	0	0	Chlorophyta; Spirogyra
+ID03	0	0	0	0	1	0	0	0	0	0	Cyanobacteria;Oscillatoria
+ID04	0	0	0	0	1	0	0	0	0	0	Cyanobacteria;long_thin_unknown
+ID05	0	0	0	0	1	0	0	0	0	0	Cyanobacteria;rod1
+ID06	0	0	0	0	45	0	0	0	0	0	Cyanobacteria;rod2
+ID07	0	0	0	0	10	0	0	0	0	0	Cyanobacteria;rod3
+ID08	0	0	0	0	1	0	0	0	0	0	Cyanobacteria;rod4
+ID09	0	0	0	0	1	0	0	0	0	0	Dinoflagellate;Ceratium
+ID10	0	0	0	0	1	0	0	0	0	0	"Diatoms, synedra"
+ID11	0	0	0	0	1	0	0	0	0	0	Rotifera;keratella
+ID12	0	0	0	0	0	0	0	0	0	0	
+ID13	0	0	0	0	0	0	0	0	0	0	
+ID14	0	0	0	0	0	0	0	0	0	0	
+ID15	0	0	0	0	0	0	0	0	0	0	
+ID16	0	0	0	0	0	0	0	0	0	0	
+ID17	0	0	0	0	0	0	0	0	0	0	
+ID18	0	0	0	0	0	0	0	0	0	0	
+ID19	0	0	0	0	0	0	0	0	0	0	
+ID20	0	0	0	0	0	0	0	0	0	0	
+ID21	0	0	0	0	0	0	0	0	0	0	
+ID22	0	0	0	0	0	0	0	0	0	0	
+ID23	0	0	0	0	0	0	0	0	0	0	
+ID24	0	0	0	0	0	0	0	0	0	0	
+ID25	0	0	0	0	0	0	0	0	0	0	
+ID26	0	0	0	0	0	0	0	0	0	0	
+ID27	0	0	0	0	0	0	0	0	0	0	
+ID28	0	0	0	0	0	0	0	0	0	0	

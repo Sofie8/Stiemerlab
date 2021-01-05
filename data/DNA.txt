@@ -1,0 +1,29 @@
+# ID	01.Thor	04.Heppenzeelstraat	06. Paresbemdstraat/ zijdelings instroom	07.Paresbemdstraat/Stiemer	09.Hoefstadstraat	10.NieuweKuilenweg	12.Slagmolen/Stiemer	13.Slagmolen/Achterbeek	14.Plattewijersstraat	16.Diepenbekerbos	Taxonomie
+ID01	2135485	0	0	0	0	0	5	0	0	0	Bacteria;Proteobacteria;
+ID02	930768	0	0	0	0	0	0	0	0	0	Bacteria;Actinobacteria;
+ID03	828627	0	0	0	0	0	0	0	0	0	Bacteria;Acidobacteria;
+ID04	212190	0	0	0	0	0	0	0	0	0	Bacteria;Verrucomicrobia;
+ID05	199279	0	0	0	0	0	0	0	0	0	Bacteria;Chloroflexi;
+ID06	186871	0	0	0	0	0	0	0	0	0	Bacteria;Planctomycetes;
+ID07	130010	0	0	0	0	0	0	0	0	0	Bacteria;Bacteroidetes;
+ID08	59520	0	0	0	0	0	0	0	0	0	Bacteria;Gemmatimonadetes;
+ID09	41269	0	0	0	0	0	0	0	0	0	Bacteria;Nitrospirae;
+ID10	39580	0	0	0	0	0	0	0	0	0	Bacteria;Firmicutes;
+ID11	35683	0	0	0	0	0	0	0	0	0	Archaea;Thaumarchaeota;
+ID12	24352	0	0	0	0	0	0	0	0	0	Bacteria;Candidatus Rokubacteria;
+ID13	20787	0	0	0	0	0	0	0	0	0	Bacteria;Cyanobacteria;
+ID14	2084	0	0	0	0	0	0	0	0	0	Viruses
+ID15	156079	0	0	0	0	0	0	0	0	0	cannot be assigned to a (non-viral) phylum
+ID16	115006	0	0	0	0	0	0	0	0	0	belong to a (non-viral) phylum with less than 0.1% of all reads
+ID17	7188855	0	0	0	0	0	0	0	0	0	unclassified
+ID18	0	0	0	0	0	0	0	0	0	0	
+ID19	0	0	0	0	0	0	0	0	0	0	
+ID20	0	0	0	0	0	0	0	0	0	0	
+ID21	0	0	0	0	0	0	0	0	0	0	
+ID22	0	0	0	0	0	0	0	0	0	0	
+ID23	0	0	0	0	0	0	0	0	0	0	
+ID24	0	0	0	0	0	0	0	0	0	0	
+ID25	0	0	0	0	0	0	0	0	0	0	
+ID26	0	0	0	0	0	0	0	0	0	0	
+ID27	0	0	0	0	0	0	0	0	0	0	
+ID28	0	0	0	0	0	0	0	0	0	0	
